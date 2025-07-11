@@ -29,7 +29,7 @@ export default function App() {
           onClick={() => {
             localStorage.removeItem('isLoggedIn');
             localStorage.removeItem('currentUser');
-            window.location.href = '/login';
+            window.location.href = '/';
           }}
         >
           Çıkış Yap
