@@ -1,14 +1,14 @@
 # 🛍️ Product List with useEffect
 
-Bu proje, React'in `useEffect` hook'unu kullanarak basit bir ürün listeleme ve kategori filtreleme uygulaması sunar. Uygulamada ayrıca karanlık ve aydınlık tema desteği ile kullanıcı girişi/üye olma sayfaları örnekleri de mevcuttur.
+Bu proje, React'in `useEffect` hook'unu kullanarak hazırlanmış ürün listeleme ve kategori filtreleme uygulamasıdır. Ayrıca karanlık/aydınlık tema desteği ile kullanıcı girişi ve üye olma sayfaları da örneklenmiştir.
 
 ## 🚀 Proje Hakkında
 
-- Ürünler `https://fakestoreapi.com/products` API'sinden çekilmektedir.
-- Kategori filtreleme özelliği mevcuttur.
+- Ürünler `https://fakestoreapi.com/products` API'sinden çekilir.
+- Kategori filtreleme özelliği bulunur.
 - Dark ve Light tema desteği vardır.
-- Login/Register arayüzü örnekleri hazırlanmıştır.
-- React fonksiyonel component yapısı ile geliştirilmiştir.
+- Login ve Register sayfaları tasarlanmıştır.
+- React fonksiyonel component mimarisiyle geliştirilmiştir.
 
 ## 📦 Kullanılan Teknolojiler
 
@@ -22,20 +22,21 @@ Bu proje, React'in `useEffect` hook'unu kullanarak basit bir ürün listeleme ve
 ### 🎨 Tema Görünümleri
 
 #### Light Home
-![Light Home](./assets/img/light_home.png)
+![Light Home](./src/assets/img/light_home.png)
 
 #### Dark Home
-![Dark Home](./assets/img/dark_home.png)
+![Dark Home](./src/assets/img/dark_home.png)
 
 ### 🗂️ Kategori Filtreleme
-![Category Filter](./assets/img/categorys_filter.png)
+![Category Filter](./src/assets/img/categorys_filter.png)
 
 ### 🔐 Kullanıcı Girişi
+
 #### Login Sayfası
-![Login](./assets/img/login.png)
+![Login](./src/assets/img/login.png)
 
 #### Register Sayfası
-![Register](./assets/img/register.png)
+![Register](./src/assets/img/register.png)
 
 ## 🔧 Kurulum ve Çalıştırma
 
