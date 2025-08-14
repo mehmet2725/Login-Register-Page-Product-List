@@ -4,7 +4,7 @@ Bu proje, React'in `useEffect` hook'unu kullanarak hazırlanmış ürün listele
 
 ## 🚀 Proje Hakkında
 
-- Ürünler `https://fakestoreapi.com/products` API'sinden çekilir.
+- Ürünler `https://dummyjson.com/products` API'sinden çekilir.
 - Kategori filtreleme özelliği bulunur.
 - Dark ve Light tema desteği vardır.
 - Login ve Register sayfaları tasarlanmıştır.
